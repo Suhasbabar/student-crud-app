@@ -40,7 +40,7 @@ function App() {
 
   return (
     <div style={{ padding: "20px" }}>
-      <h2>Student CRUD (Vite)</h2>
+      <h2>Student Data Management</h2>
 
       {/* Form */}
       <form onSubmit={handleSubmit}>
