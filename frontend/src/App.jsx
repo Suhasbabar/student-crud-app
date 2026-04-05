@@ -308,7 +308,7 @@ export default function App() {
         <div className="header">
           <div>
             <div className="header-sub">Institute Portal</div>
-            <div className="header-title">Student Registry</div>
+            <div className="header-title">Student Management</div>
           </div>
           <div className="count-badge">{students.length} enrolled</div>
         </div>
